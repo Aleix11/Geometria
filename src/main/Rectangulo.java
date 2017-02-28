@@ -1,8 +1,6 @@
 package main;
 
-/**
- * Created by aleix on 28/2/2017.
- */
+
 public class Rectangulo {
 
     double c1, c2;
