@@ -1,8 +1,5 @@
 package main;
 
-/**
- * Created by aleix on 28/2/2017.
- */
 public class Triangulo {
 
     private double c1, c2;
