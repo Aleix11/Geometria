@@ -1,14 +1,12 @@
 package main;
 
-/**
- * Created by aleix on 28/2/2017.
- */
+import javax.print.DocFlavor;
+
+
+
 public class App {
 
-    public static void main (string[] args)
+    public static void main (String[] args)
     {
-        Controlador lasfiguras = new Controlador();
-
-        lasfiguras.add()
     }
 }
