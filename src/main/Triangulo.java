@@ -5,7 +5,7 @@ package main;
  */
 public class Triangulo {
 
-    double c1, c2;
+    private double c1, c2;
 
     public Triangulo(double c1, double c2)
     {
