@@ -1,7 +1,7 @@
 package main;
 
 
-public class Rectangulo {
+public class Rectangulo implements Figura {
 
     private double c1, c2;
 
