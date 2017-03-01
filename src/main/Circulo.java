@@ -1,6 +1,6 @@
 package main;
 
-public class Circulo {
+public class Circulo implements Figura{
 
     private double r1;
 

@@ -24,7 +24,7 @@ public class App {
         int i = 0;
         for(i=0; i <figuraas.getFiguras().size(); i++)
         {
-            System.out.println("Nombre figura: " + figuraas.getFiguras().get(i).getClass().getSimpleName() + " Y su àrea es: " + figuraas.getFiguras().get(i).area()+"\n");
+            System.out.println("Nombre figura: " + figuraas.getFiguras().get(i).getClass().getSimpleName() + ", Y su àrea es: " + figuraas.getFiguras().get(i).area()+"\n");
         }
     }
 }
