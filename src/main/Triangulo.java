@@ -1,21 +1,18 @@
 package main;
 
-/**
- * Created by aleix on 28/2/2017.
- */
 public class Triangulo {
 
-    double c1, c2;
+    double base, altura;
 
-    public Triangulo(double c1, double c2)
+    public Triangulo(double base, double altura)
     {
-        this.c1 = c1;
-        this.c2 = c2;
+        this.base = base;
+        this.altura = altura;
     }
 
     public double area()
     {
-        return (this.c1*this.c2/2);
+        return (this.base*this.altura/2);
     }
 }
 //

@@ -4,13 +4,13 @@ public class Circulo {
 
     private double r1;
 
-    public Circulo(double c1, double c2)
+    public Circulo(double r1)
     {
         this.r1 = r1;
     }
 
     public double area()
     {
-        return (this.r1*this.r1*3.14);
+        return (this.r1*this.r1*(Math.PI));
     }
 }
