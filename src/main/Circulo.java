@@ -1,7 +1,7 @@
 package main;
 
 public class Circulo {
-    double c1, c2;
+    double c1;
 
     public Circulo(double c1) {
         this.c1 = c1;
