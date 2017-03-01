@@ -1,6 +1,6 @@
 package main;
 
-import java.util.ArrayList;
+import java.util.*;
 
 
 public class Controlador {
@@ -9,6 +9,6 @@ public class Controlador {
 
     public Controlador()
     {
-        figura = new ArrayList<Figura>();
+        figuras = new ArrayList<Figura>();
     }
 }
